@@ -48,7 +48,7 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 ## What is Slax
 
-In the rapidly evolving digital age, the intersection of blockchain technology and social networking has opened new avenues for decentralized applications, offering unprecedented security, transparency, and user empowerment. The Dexis App emerges as a pioneering platform within this domain, built on the robust Blast blockchain. This whitepaper introduces the Dexis, detailing its innovative approach to social networking through decentralized technologies and highlighting its potential to redefine online interactions.
+In the rapidly evolving digital age, the intersection of blockchain technology and social networking has opened new avenues for decentralized applications, offering unprecedented security, transparency, and user empowerment. The Slax App emerges as a pioneering platform within this domain, built on the robust Blast blockchain. This whitepaper introduces the Slax, detailing its innovative approach to social networking through decentralized technologies and highlighting its potential to redefine online interactions.
 
 ## The Need for Decentralization in Social Networking
 
@@ -68,7 +68,7 @@ Utilizing this technology, the Slax provides a platform where all transactions, 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [Create a bug report](https://github.com/Slaxapp/Slax/issues) | [Submit a feature request](https://github.com/Slaxapp/Slax/issues/new?assignees=&labels=feat%2Cstory&projects=&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://Slax.tech) |           |
-| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@Dexis.app                                                    |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@Slax.tech                                                   |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
@@ -90,7 +90,7 @@ If you have questions, you are welcome to contact us. One of the best places to 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to Slax! If you have any Slax-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: awesome-Dexis
+We would like to express our gratitude to all the individuals who have already contributed to Slax! If you have any Slax-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: awesome-Slax
 
 <a href="https://github.com/toeverything/affine/graphs/contributors">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
