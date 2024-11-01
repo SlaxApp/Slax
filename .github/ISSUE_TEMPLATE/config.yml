@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Something else?
+    url: https://github.com/slaxapp/slax/discussions
+    about: Feel free to ask and answer questions over in GitHub Discussions
+  - name: slax Community Support
+    url: slax.tech
+    about: slax Community - a place to ask, learn and engage with others
