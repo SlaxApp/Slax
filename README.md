@@ -44,7 +44,7 @@
 Star us, and you will receive all release notifications from GitHub without any delay!
 
 
-<img src=".github/gdfgdaf31241.gif" style="width: 100%"/>
+<img src=".github/slax.gif" style="width: 100%"/>
 
 ## What is Slax
 
