@@ -6,7 +6,7 @@
     <br>
 </h1>
 <a href="https://Slax.tech">
-    <img alt="logo" src="imgur.com/a/5MSpvZ8" style="width: 100%">
+    <img alt="logo" src="https://i.ibb.co/hdJ7bNb/Frame-5.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
