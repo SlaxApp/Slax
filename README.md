@@ -1,11 +1,11 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="https://slax.social">Slax</a></b><br />
+    <b><a href="https://slaxai.app">Slax</a></b><br />
     We are the next generation social network in the WEB3.
     <br>
 </h1>
-<a href="https://slax.social">
+<a href="https://slaxai.app">
     <img alt="logo" src="https://i.ibb.co/hdJ7bNb/Frame-5.png" style="width: 100%">
 </a>
 <br/>
@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-    <a href="https://slax.social/">Home Page</a> |
+    <a href="https://slaxai.app/">Home Page</a> |
     <a href="https://x.com/SlaxProject">Twitter</a> |
     <a href="https://slax-app.gitbook.io/slaxapp/">Whitepaper</a> |
 </div>
@@ -67,8 +67,8 @@ Utilizing this technology, the Slax provides a platform where all transactions, 
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Create a bug report](https://github.com/Slaxapp/Slax/issues) | [Submit a feature request](https://github.com/Slaxapp/Slax/issues/new?assignees=&labels=feat%2Cstory&projects=&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://slax.social) |           |
-| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@slax.social                                                  |
+| [Create a bug report](https://github.com/Slaxapp/Slax/issues) | [Submit a feature request](https://github.com/Slaxapp/Slax/issues/new?assignees=&labels=feat%2Cstory&projects=&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://slaxai.app) |           |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@slaxai.app                                                  |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
@@ -98,7 +98,7 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of Slax. Our team is diligently updating to the latest version. For more information on how to self-host Slax, please refer to our [documentation](https://slax.social/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of Slax. Our team is diligently updating to the latest version. For more information on how to self-host Slax, please refer to our [documentation](https://slaxai.app/).
 
 ## Hiring
 
@@ -106,7 +106,7 @@ Some amazing companies, including Slax, are looking for developers! Are you inte
 
 ## Email
 
-For questions and suggestions, please use this email [contact@slax.social]
+For questions and suggestions, please use this email [contact@slaxai.app]
 
 ## Building
 
