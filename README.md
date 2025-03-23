@@ -20,7 +20,7 @@
 
 <div align="center">
     <a href="https://slaxai.app/">Home Page</a> |
-    <a href="https://x.com/SlaxProject">Twitter</a> |
+    <a href="https://x.com/swox_app">Twitter</a> |
     <a href="https://slax-app.gitbook.io/slaxapp/">Whitepaper</a> |
 </div>
 <br/>
